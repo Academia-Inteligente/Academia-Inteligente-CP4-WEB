@@ -1,12 +1,13 @@
-import React from 'react'
-import Navbar from "../components/NavBar";
+import "../css/estilo.css";
 
-const Sobre = () => {
+export default function Sobre() {
   return (
-    <section>
-        <h3>Sobre</h3>
-    </section>
-  )
+    <div className="page">
+      <h1>Sobre a Academia</h1>
+      <p>
+        Somos uma academia inteligente focada em tecnologia e performance.
+        Utilizamos inteligência artificial para otimizar seus treinos e resultados.
+      </p>
+    </div>
+  );
 }
-
-export default Sobre
