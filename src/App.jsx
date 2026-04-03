@@ -11,7 +11,6 @@ function App() {
       <Navbar />
       <AppRoutes />
       </BrowserRouter>
-      <CalculadoraIMC />
     </main>
   );
 }
