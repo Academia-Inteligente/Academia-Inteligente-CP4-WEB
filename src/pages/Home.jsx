@@ -1,10 +1,14 @@
 import PlanCard from "../components/PlanCard";
 import "../css/estilo.css";
+import bannerImg from "../assets/bannerhome.jpg";
 
 export default function Home() {
   return (
     <>
-      <section className="banner">
+      <section
+        className="banner"
+        style={{ backgroundImage: `url(${bannerImg})` }}
+      >
         <div className="banner-content">
           <h1>Transforme seu corpo com tecnologia</h1>
           <p>Treinos inteligentes, resultados reais</p>
