@@ -248,3 +248,24 @@ body {
   opacity: 1;
   color: #38bdf8;
 }
+
+/* ================= Sobre ================= */
+
+.sobre-container {
+  max-width: 750px;
+  margin: 0 auto;
+  padding: 60px 20px;
+}
+
+.sobre-titulo {
+  font-size: 2rem;
+  color: #38bdf8;
+  margin-bottom: 30px;
+}
+
+.sobre-texto {
+  font-size: 1rem;
+  line-height: 1.9;
+  opacity: 0.85;
+  margin-bottom: 20px;
+}
