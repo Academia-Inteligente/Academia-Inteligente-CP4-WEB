@@ -1,0 +1,74 @@
+.box {
+  background-color: #030712;
+  min-height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 40px 20px;
+  color: white;
+}
+
+.box h1 {
+  font-size: 2.5rem;
+  font-weight: 800;
+  margin-bottom: 5px;
+}
+
+.box > p {
+  color: #94a3b8;
+  margin-bottom: 30px;
+}
+
+.formul {
+  background-color: #0f172a;
+  padding: 30px;
+  border-radius: 16px;
+  border: 1px solid #1e293b;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  width: 100%;
+  max-width: 450px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.5);
+  margin-top: 20px;
+}
+
+.formul input,
+.formul textarea {
+  padding: 12px;
+  background-color: #1e293b;
+  border: 1px solid #334155;
+  border-radius: 8px;
+  color: white;
+  font-size: 1rem;
+  font-family: inherit;
+  resize: vertical;
+}
+
+.formul input:focus,
+.formul textarea:focus {
+  outline: none;
+  border-color: #22d3ee;
+}
+
+.formul textarea {
+  min-height: 120px;
+}
+
+.formul button {
+  background-color: #22d3ee;
+  color: #000;
+  border: none;
+  padding: 15px;
+  border-radius: 8px;
+  font-weight: 700;
+  cursor: pointer;
+  text-transform: uppercase;
+  transition: 0.3s;
+}
+
+.formul button:hover {
+  background-color: #67e8f9;
+  transform: translateY(-2px);
+}

@@ -1,16 +1,23 @@
-# React + Vite
+# 🏋️ Academia Inteligente
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Projeto desenvolvido para o Checkpoint 4 da disciplina de Web Development - FIAP.
 
-Currently, two official plugins are available:
+## 📋 Sobre o Projeto
+Site de uma Academia Inteligente com navegação entre páginas, planos, calculadora de IMC e formulário de contato. Desenvolvido com React + Vite.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🛠️ Tecnologias
+- React
+- Vite
+- React Router DOM
+- CSS
 
-## React Compiler
+## 👥 Integrantes
+- Nicolas Forcione de Oliveira e Souza – RM566998  
+- Alexandre Constantino Furtado Junior – RM567188  
+- Enrico Dellatorre da Fonseca– RM566824  
+- Leonardo Batista de Souza – RM568558  
+- Matheus Freitas dos Santos– RM567337
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🔗 Repositório
+[[Link do repositório aqui](https://github.com/Academia-Inteligente/Academia-Inteligente-CP4-WEB.git)]
