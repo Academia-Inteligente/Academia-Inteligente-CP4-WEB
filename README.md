@@ -20,4 +20,4 @@ Site de uma Academia Inteligente com navegação entre páginas, planos, calcula
 
 
 ## 🔗 Repositório
-[[Link do repositório aqui](https://github.com/Academia-Inteligente/Academia-Inteligente-CP4-WEB.git)]
+[https://github.com/Academia-Inteligente/Academia-Inteligente-CP4-WEB.git]
